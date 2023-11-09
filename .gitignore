@@ -1,0 +1,5 @@
+node_modules
+.vscode
+artifacts-zk
+cache-zk
+era_test_node.log
